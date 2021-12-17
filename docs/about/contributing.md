@@ -3,10 +3,10 @@
 There are many things that we would like to improve in RetroShare, 
 but that we don't, because we simply don't have enough time. 
 That's why we are currently looking for some help.  
-Knowledge of C++,  QT and webskills will certainly be useful, 
+Knowledge of C++, QT and web skills will certainly be useful, 
 but you don't need to be an expert. Existing RetroShare developers will 
 be able to help you on these projects. 
-Artworks like a logo, buttons, etc are useful too. 
+Artwork like a logo, buttons, etc are useful too. 
 
  - Please send patches to the [development team](mailto:retroshare.project@gmail.com)  
  - Fork and Create [Pull Requests](https://github.com/RetroShare/RetroShare/pulls) on GitHub, GitLab or any other  
@@ -19,8 +19,8 @@ Artworks like a logo, buttons, etc are useful too.
  - discuss on the developer [mailinglist](http://lists.sourceforge.net/mailman/listinfo/retroshare-devel)  
 
 RetroShare is working so well and the internal forums and chatrooms 
-are so active, we tend to forget about these external forum's and 
-mailinglist's. Still they are read and you will receive an answer. 
+are so active, we tend to forget about these external forums and 
+mailinglists. Still they are read and you will receive an answer. 
 
 ##Translation
 This project uses [Transifex](https://www.transifex.com/beluga/retroshare/) 
